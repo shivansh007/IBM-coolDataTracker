@@ -8,5 +8,5 @@ Performance Report. In a sales data tracking software every user has its own log
 2) Create a database dbsaledatatracker and import the dbsaledatatracker.sql file
 3) Run the project on localhost machine
 
-#Bugs and issues
+# Bugs and issues
 The testing phase of the project will start soon. But as of now, there are no bugs in the project.
